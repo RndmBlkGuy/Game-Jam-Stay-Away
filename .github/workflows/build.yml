@@ -62,7 +62,7 @@ jobs:
                 env:
                   BUTLER_CREDENTIALS: ${{ secrets.ITCH_IO_API_KEY }}
                   CHANNEL: HTML
-                  ITCH_GAME: Game-Jam-Stay-Away
+                  ITCH_GAME: stay-away
                   ITCH_USER: studiodw
                   BRANCH: itch-io
                   PACKAGE: build/WebGL
