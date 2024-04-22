@@ -63,6 +63,6 @@ jobs:
                   BUTLER_CREDENTIALS: ${{ secrets.ITCH_IO_API_KEY }}
                   CHANNEL: HTML
                   ITCH_GAME: STAY-AWAY
-                  ITCH_USER: STUDIO-DW
+                  ITCH_USER: studiodw
                   BRANCH: itch-io
                   PACKAGE: build/WebGL
