@@ -1,0 +1,106 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Assets/Tiled/tilemaps/Test level.tmx",
+    "expandedProjectPaths": [
+        "Assets/SuperTiled2Unity/Examples/Overhead",
+        "Assets/SuperTiled2Unity/Examples",
+        "Assets/SuperTiled2Unity/Examples/Overhead/Maps",
+        "Assets/SuperTiled2Unity",
+        "Assets/Tiled/tilemaps/Rules",
+        "Assets/tilesets/Rules",
+        "Assets",
+        "Assets/Tiled/tilemaps",
+        "Assets/tilesets",
+        "Assets/Tiled",
+        ".",
+        "Assets/tilemaps/Rules",
+        "Assets/tilemaps"
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "Assets/Base level tile set.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Assets/Base_level_tile_set.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Assets/Tiled/tilemaps/Rules/autotileRules.tmx": {
+            "scale": 1.7515625,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 476.71721677074044,
+                "y": 214.38001784121317
+            }
+        },
+        "Assets/Tiled/tilemaps/Test level.tmx": {
+            "scale": 1.7515625,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 476.71721677074044,
+                "y": 421.05263157894734
+            }
+        },
+        "Assets/Tiled/tilemaps/Test_level.tmx": {
+            "scale": 1.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 477.1428571428571,
+                "y": 316.85714285714283
+            }
+        },
+        "Assets/tilemaps/Rules/autotileRules.tmx": {
+            "scale": 1.7515625,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 427.04727921498665,
+                "y": 400.49955396966993
+            }
+        },
+        "Assets/tilemaps/Test level.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 449.3333333333333,
+                "y": 368.33333333333326
+            }
+        },
+        "Assets/tilesets/Rules/autotileRules.tmx": {
+            "scale": 1.7515625,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 480.14272970562,
+                "y": 320
+            }
+        },
+        "Base level tile set.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        }
+    },
+    "last.imagePath": "D:/Projects/Unity/GameJamStayAway/Assets/Art",
+    "map.height": 20,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 30,
+    "openFiles": [
+        "Assets/Base level tile set.tsx",
+        "Assets/Tiled/tilemaps/Test level.tmx",
+        "Assets/Tiled/tilemaps/Rules/autotileRules.tmx"
+    ],
+    "project": "TiledMap.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "Assets/Base_level_tile_set.tsx",
+        "Assets/Tiled/tilemaps/Rules/autotileRules.tmx",
+        "Assets/Base level tile set.tsx",
+        "Assets/Tiled/tilemaps/Test level.tmx",
+        "Base level tile set.tsx",
+        "Assets/tilemaps/Rules/autotileRules.tmx",
+        "Assets/tilemaps/Test level.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
