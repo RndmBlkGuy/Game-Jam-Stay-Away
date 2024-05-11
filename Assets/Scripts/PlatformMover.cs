@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class PlatformMover : MonoBehaviour
 {
+    //class for moving a platform
     public Transform[] positions;
     public float speed = 5f;
     private int currentPositionIndex = 0;
